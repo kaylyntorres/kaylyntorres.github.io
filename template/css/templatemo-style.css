@@ -49,6 +49,29 @@
 
 
 /*---------------------------------------
+    Experience section              
+-----------------------------------------*/
+
+#experience .experience-img {
+  background: url('../images/experience-img.jpg') no-repeat;
+  width: 100%;
+}
+
+#experience .media-heading {
+  margin-bottom: 0px;
+}
+
+#experience .media .fa {
+  font-size: 30px;
+  margin-right: 14px;
+}
+
+#experience small {
+  color: #ffa7d8;
+  font-weight: bold;
+}
+
+/*---------------------------------------
     Education section              
 -----------------------------------------*/
 
