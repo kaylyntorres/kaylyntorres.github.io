@@ -49,6 +49,34 @@
 
 
 /*---------------------------------------
+    Education section              
+-----------------------------------------*/
+
+#education {
+  background: #ffa7d8;
+}
+
+#education .education-img {
+  background: url('../images/education-img.jpg') no-repeat;
+}
+
+#education .media-heading {
+  margin-bottom: 0px;
+}
+
+#education .media .fa {
+  font-size: 30px;
+  margin-right: 14px;
+}
+
+#education small {
+  color: #0082c4;
+  font-weight: bold;
+}
+
+
+
+/*---------------------------------------
    Mobile Responsive         
 -----------------------------------------*/
 
