@@ -214,8 +214,6 @@ a:hover, a:active, a:focus {
   box-sizing: border-box;
 }
 
-
-
 /*---------------------------------------
     Preloader section              
 -----------------------------------------*/
@@ -276,8 +274,8 @@ a:hover, a:active, a:focus {
 }
 
 .custom-navbar .navbar-brand {
-    color: #333;
-	text-shadow: 1px 1px #fff;
+    color: #cce6f3;
+	text-shadow: 1px 1px #0082c4;
     font-weight: bold;
     font-size: 24px;
     line-height: 35px;
@@ -288,7 +286,7 @@ a:hover, a:active, a:focus {
     color: #666;
     font-size: 16px;
     font-weight: 400;
-    letter-spacing: 1px;
+    letter-spacing: 2px;
     text-transform: uppercase;
     line-height: 40px;
     transition: all 0.4s ease-in-out;
