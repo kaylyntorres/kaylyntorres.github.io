@@ -163,11 +163,11 @@ p {
   color: #ffffff;
 }
 
-.color-yellow {
-  color: #E3AE57;
+.color-blue {
+  color: #00689c;
 }
 
-.bg-yellow {
+.bg-blue {
   background: #4ca7d5;
 }
 
@@ -190,14 +190,14 @@ html{
 }
 
 a {
-  color: #E3AE57;
+  color: #ffa7d8  ;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
   text-decoration: none !important;
 }
 a:hover, a:active, a:focus {
-  color: #00689c;
+  color: #7f536c;
   outline: none;
 }
 
