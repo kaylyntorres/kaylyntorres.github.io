@@ -383,7 +383,6 @@ a:hover, a:active, a:focus {
 
 #about .about-img {
     background: url('../images/about-img.jpg') no-repeat;
-    /* margin-top: 35px; */
     padding: 22px 32px 32px 32px;
 }
 
